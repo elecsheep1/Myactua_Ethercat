@@ -16,6 +16,7 @@ MYACTUA_EtherCat 是一个基于 **EtherCAT** 的脉塔多电机控制库，适�
 
 ## 目录结构
 
+~~~
 MYACTUA_EtherCat/
  ├── build/                  # 构建目录（编译产物）
  ├── include/myactua/        # 库头文件
@@ -23,6 +24,7 @@ MYACTUA_EtherCat/
  ├── examples/               # 示例程序
  ├── CMakeLists.txt          # 构建脚本
  └── README.md               # 本文件
+~~~
 
 ---
 
