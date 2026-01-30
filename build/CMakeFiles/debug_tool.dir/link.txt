@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/debug_tool.dir/examples/debug_tool.cpp.o -o debug_tool   -L/home/esheep/project/MYACTUA_EtherCat/../../ethercat/lib  -Wl,-rpath,/home/esheep/project/MYACTUA_EtherCat/../../ethercat/lib libMYACTUA_EtherCat.a -lethercat -lpthread -lrt

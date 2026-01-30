@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMYACTUA_EtherCat.a CMakeFiles/MYACTUA_EtherCat.dir/src/motor_control.cpp.o CMakeFiles/MYACTUA_EtherCat.dir/src/CiA402.cpp.o CMakeFiles/MYACTUA_EtherCat.dir/src/EthercatAdapterIGH.cpp.o
+/usr/bin/ranlib libMYACTUA_EtherCat.a
