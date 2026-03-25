@@ -36,7 +36,7 @@ MYACTUA_EtherCat/
 - C++17
 - CMake >= 3.8
 - Linux 系统（推荐 Ubuntu 20.04 / 22.04）
-- IGH EtherCAT Adapter（路径：`../../ethercat`）
+- IGH EtherCAT Adapter（ecrt.h 路径）
 - pthread、rt 库（实时控制需要）
 
 ---
